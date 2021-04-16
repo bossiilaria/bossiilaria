@@ -4,7 +4,7 @@
 
 
 Read all about my coding adventure captured in my posts on 
-![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Filaria-bossi-3878b283%2F)
+https://www.linkedin.com/in/ilaria-bossi-3878b283/
 
 I’m currently working at https://www.fareportal.com/
 
