@@ -25,5 +25,5 @@ I’m currently working at https://www.fareportal.com/
 Juyter Notebbok
 Visual Studio Code 
 Sublime Text
-[![Python Badge](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Filaria-bossi-3878b283%2F)
+
 
